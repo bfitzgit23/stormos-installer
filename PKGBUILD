@@ -1,6 +1,6 @@
 
 pkgname=stormos-installer
-pkgver=1.0
+pkgver=1.0.1
 pkgrel=1
 pkgdesc="Command line installer for StormOS for expert users."
 arch=('any')
@@ -20,8 +20,8 @@ source=(
 		portuguese_brasil.trans
 		russian.trans
 		spanish.trans)
-sha256sums=('35618b627e33fd718a3d209f9adadac2570c62e04939cd8439e7e63f72f524a1'
-            '578ffe61bddb7a90e3dd2e78a10c8bf42ac99961b81afade1596cbde5b57766e'
+sha256sums=('a75d908ed5ad1e0059791e42dff440d92ef02741f273118d2a3f765e47ef06d8'
+            '9fdb1fcab922486d72ad3f6110c65a83952c75e09fe2de98618a6fe2b0fd3df7'
             '376cf5e4e10db59cb8c2c799c651d6cee756d16451c34e410ef50034bea2210a'
             '62fbb7fa46bc724bf1a2de88361e8257503551ab0b472643ce9cdddd1079185f'
             '4881e9576968070ace22d20aa2773d59997a3ab847e66824858dfe3d3dc88596'
